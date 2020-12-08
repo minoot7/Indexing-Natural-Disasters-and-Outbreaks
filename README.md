@@ -1,6 +1,6 @@
 # ![](https://steamuserimages-a.akamaihd.net/ugc/169290952006835944/8BC46820ACB1EAE698718B98A256ED5AAC1C54D7/?imw=128&imh=72&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true) 
 
-# Project 5:  Risk Assesment Due to COVID-19, Wildfires, and Earthquakes in California
+# Risk Assessment Due to COVID-19, Wildfires, and Earthquakes in California
 #### By: Emiko Sano, Minoo Taghavi, and Cameron Vann
 
 ---
