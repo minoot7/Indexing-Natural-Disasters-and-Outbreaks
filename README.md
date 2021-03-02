@@ -1,7 +1,7 @@
 # ![](https://steamuserimages-a.akamaihd.net/ugc/169290952006835944/8BC46820ACB1EAE698718B98A256ED5AAC1C54D7/?imw=128&imh=72&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true) 
 
 # Risk Assessment Due to COVID-19, Wildfires, and Earthquakes in California
-#### By: Emiko Sano, Minoo Taghavi, and Cameron Vann
+#### By: Minoo Taghavi
 
 ---
 ## Executive Statement
@@ -36,7 +36,7 @@ We used various sources for collection of the data, and regardless of the source
 **COVID-19**:  
 We relied on the aggregated data from [Jonh Hopkins Resourse Center](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data) for COVID-19. Jonh Hopkins update their data daily. We collected [covid data](./data/california_covid.csv) on the most recent data as of October 17, 2020.  
 [Wildfire data](./data/fire_data.csv) were collected from [Cal Fire](https://www.fire.ca.gov) on October 17, 2020. Some data were updated using [InciWeb](https://inciweb.nwcg.gov) and [San Francisco Chronicle Fire Tracker](https://www.sfchronicle.com/projects/california-fire-map/) during our exploratory analysis.    
-Earthquake data were obtained from [Center for Engineering Strong Motion Data](https://strongmotioncenter.org/) for the lastest as of October 19, 2020.   
+Earthquake data were obtained from [Center for Engineering Strong Motion Data](https://strongmotioncenter.org/) for the latest as of October 19, 2020.   
 All three datasets were combined into a single dataset that represents all events per county-level. In order to summarize them to the county-level, fire data and earthquake data needed to be manipulated slightly differently (the covid dataset is already represented per county).  
 <a id = fire_data> </a>
 **Wildfire**:  
